@@ -3,7 +3,7 @@
 - I'm currently looking for employment
 - 📫 How to reach me: emilye808@gmail.com
 
-Please also visit my Linkdin: [Emily Eberhart]([https://pages.github.com/](https://www.linkedin.com/in/emily-eberhart-697a731a1)).
+Please also visit my Linkdin: [Emily Eberhart](https://www.linkedin.com/in/emily-eberhart-697a731a1).
   
 
 <!--
