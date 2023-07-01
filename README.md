@@ -1,4 +1,10 @@
-### Hi there 👋
+### Aspiring Data Analyst 
+- As a recent Business Analytics and Psychology graduate from the University of Notre Dame, I am looking to spend the summer learning creatively through the use of Github 👾
+- I'm currently looking for employment
+- 📫 How to reach me: emilye808@gmail.com
+
+Please also visit my Linkdin: [Emily Eberhart]([https://pages.github.com/](https://www.linkedin.com/in/emily-eberhart-697a731a1)).
+  
 
 <!--
 **emilye808/emilye808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
